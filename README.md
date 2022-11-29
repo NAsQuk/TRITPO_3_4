@@ -211,25 +211,26 @@
 
 ## 3.2 Взаимодействие компонентов
 ![](https://github.com/NAsQuk/TRITPO_3_4/blob/main/schemes/Vzaimodeystvie_komponentov.png) 
-![](https://github.com/NAsQuk/TRITPO_3_4/blob/main/schemes/Diagramma_klassov.png)
+
 <a name="quality_attributes"/>
 
 ## 3.3 Диаграмма классов
-
+![](https://github.com/NAsQuk/TRITPO_3_4/blob/main/schemes/Diagramma_klassov.png)
 <a name="requirements_for_ease_of_use"/>
 
 ## 3.4 Пользовательский сценарий
-
+![](https://github.com/NAsQuk/TRITPO_3_4/blob/main/schemes/Diagramma_klassov.png)
 
 <a name="security_requirements"/>
 
 ## 3.5 Состояния системы
-
+![](https://github.com/NAsQuk/TRITPO_3_4/blob/main/schemes/Diagramma_klassov.png)
 
 <a name="external_interfaces"/>
 
 ## 3.6 Физическая структура системы
-
+![](https://github.com/NAsQuk/TRITPO_3_4/blob/main/schemes/Diagramma_klassov.png)
 <a name="restrictions"/>
 
 ## 3.7 Функциональные требования
+![](https://github.com/NAsQuk/TRITPO_3_4/blob/main/schemes/Diagramma_klassov.png)
