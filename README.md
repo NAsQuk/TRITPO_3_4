@@ -210,9 +210,7 @@
 <a name="restrictions_and_exclusions"/>
 
 ## 3.2 Взаимодействие компонентов
-
-(https://github.com/NAsQuk/TRITPO_3_4/blob/main/schemes/Vzaimodeystvie_komponentov.pdf)
-(https://github.com/NAsQuk/TRITPO_3_4/blob/main/schemes/Vzaimodeystvie_komponentov.png)
+![](https://github.com/NAsQuk/TRITPO_3_4/blob/main/schemes/Vzaimodeystvie_komponentov.png) 
 
 <a name="quality_attributes"/>
 
