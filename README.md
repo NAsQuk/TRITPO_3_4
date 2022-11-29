@@ -81,7 +81,7 @@
 <a name="user_logon_to_the_application"/>
 
 
-#### 3.1 Глосарий
+## 3.1 Глосарий
 **Описание.** После запуска приложения на экране
 
 | Функция | Требования | 
@@ -91,11 +91,8 @@
 
 <a name="restrictions_and_exclusions"/>
 
-### 3.2 Взаимодействие компонентов
+## 3.2 Взаимодействие компонентов
 
-<a name="non-functional_requirements"/>
-
-## 3.2 Нефункциональные требования
 
 <a name="quality_attributes"/>
 
