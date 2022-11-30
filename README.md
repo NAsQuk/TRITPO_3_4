@@ -229,7 +229,7 @@
 <a name="external_interfaces"/>
 
 ## 3.6 Физическая структура системы
-![](https://github.com/NAsQuk/TRITPO_3_4/blob/main/schemes/Diagramma_klassov.png)
+![](https://github.com/NAsQuk/TRITPO_3_4/blob/main/schemes/Fizicheskaya_struktura_sistemy.png)
 <a name="restrictions"/>
 
 ## 3.7 Функциональные требования
