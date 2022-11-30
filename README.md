@@ -224,7 +224,7 @@
 <a name="security_requirements"/>
 
 ## 3.5 Состояния системы
-![](https://github.com/NAsQuk/TRITPO_3_4/blob/main/schemes/Diagramma_klassov.png)
+![](https://github.com/NAsQuk/TRITPO_3_4/blob/main/schemes/Sostoyania_sistemy.png)
 
 <a name="external_interfaces"/>
 
