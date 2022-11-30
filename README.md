@@ -22,7 +22,7 @@
 <a name="intro"/>
 
 # 1 Объектно-ориентированное	проектирование системы.
-Язык	UML
+# Язык	UML
 
 
 <a name="business_requirements"/>
