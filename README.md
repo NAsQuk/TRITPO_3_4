@@ -219,7 +219,7 @@
 <a name="requirements_for_ease_of_use"/>
 
 ## 3.4 Пользовательский сценарий
-![](https://github.com/NAsQuk/TRITPO_3_4/blob/main/schemes/Diagramma_klassov.png)
+![](https://github.com/NAsQuk/TRITPO_3_4/blob/main/schemes/Polsovatelski_stenar.png)
 
 <a name="security_requirements"/>
 
